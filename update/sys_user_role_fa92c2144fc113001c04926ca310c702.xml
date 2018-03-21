@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_204935_iplookup.ipaddressinfo_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>ipaddressinfo_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-20 19:36:53</sys_created_on>
+        <sys_id>fa92c2144fc113001c04926ca310c702</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_204935_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_204935_iplookup">8d14a9104f0113001c04926ca310c7ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">8d14a9104f0113001c04926ca310c7ec</sys_scope>
+        <sys_update_name>sys_user_role_fa92c2144fc113001c04926ca310c702</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-20 19:36:53</sys_updated_on>
+    </sys_user_role>
+</record_update>
